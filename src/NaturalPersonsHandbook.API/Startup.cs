@@ -45,7 +45,8 @@ namespace NaturalPersonsHandbook.API
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<NaturalPersonService, NaturalPersonService>();
-
+            services.AddScoped<HelperService, HelperService>();
+            
             services.Configure<ApiBehaviorOptions>(options =>
             {
                 options.SuppressModelStateInvalidFilter = true;
@@ -99,6 +100,7 @@ namespace NaturalPersonsHandbook.API
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
 
             app.UseAuthorization();
 

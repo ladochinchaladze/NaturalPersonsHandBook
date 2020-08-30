@@ -23,9 +23,10 @@ namespace NaturalPersonsHandbook.API.Controllers
 
         [HttpGet]
         [Route("GetNaturalPerson")]
-        public async Task<NaturalPersonModel> GetNaturalPerson(int id)
+        public async Task<IActionResult> GetNaturalPerson(int id)
         {
-            return await this.naturalPersonService.GetNaturalPersonAsync(id);
+            var data = await this.naturalPersonService.GetNaturalPersonAsync(id);
+            return Ok(data);
         }
 
         [HttpPost]

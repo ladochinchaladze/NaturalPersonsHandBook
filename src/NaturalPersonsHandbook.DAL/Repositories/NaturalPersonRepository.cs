@@ -26,6 +26,7 @@ namespace NaturalPersonsHandbook.DAL.Repositories
                 .Include(x => x.City)
                 .Include(x=>x.Gender)
                 .Include(x=>x.Phones)
+                .Include(x=>x.NaturalPersonsRelationships)
                 .FirstOrDefaultAsync(x => x.Id == id);
 
             return data;

@@ -15,9 +15,7 @@ namespace NaturalPersonsHandbook.Service.MappingProfiles
             CreateMap<NaturalPerson, NaturalPersonModel>()
                 .ForMember(d => d.City, o => o.MapFrom(s => s.CityId))
                 .ForMember(d => d.Gender, o => o.MapFrom(s => s.GenderId))
-                .ForMember(d => d.NaturalPersonsRelationships, o => o.Ignore())
-                .ForMember(d => d.Image, o => o.Ignore())
-                .ForMember(d => d.Phones, o => o.Ignore());
+                .ForMember(d => d.Image, o => o.Ignore());
 
             CreateMap<NaturalPersonModel, NaturalPerson>()
                 .ForMember(d => d.CityId, o => o.MapFrom(s => s.City))
@@ -50,7 +48,9 @@ namespace NaturalPersonsHandbook.Service.MappingProfiles
                .ForMember(d => d.PhoneType, o => o.Ignore())
                .ForMember(d => d.NaturalPerson, o => o.Ignore());
 
-            //CreateMap<List<PhoneModel>, List<Phone>>();
+            CreateMap<Gender, TemplateModel>();
+            CreateMap<City, TemplateModel>();
+            CreateMap<RelationshipType, TemplateModel>();
         }
     }
 }
