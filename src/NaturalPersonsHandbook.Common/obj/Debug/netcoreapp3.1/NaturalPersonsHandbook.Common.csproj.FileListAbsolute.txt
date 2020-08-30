@@ -1,0 +1,9 @@
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\bin\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.deps.json
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\bin\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.dll
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\bin\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.pdb
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.csprojAssemblyReference.cache
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.AssemblyInfoInputs.cache
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.AssemblyInfo.cs
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.csproj.CoreCompileInputs.cache
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.dll
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.Common\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.Common.pdb

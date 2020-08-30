@@ -1,0 +1,12 @@
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\bin\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.deps.json
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\bin\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.dll
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\bin\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.pdb
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.AssemblyInfoInputs.cache
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.AssemblyInfo.cs
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.dll
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.pdb
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.csprojAssemblyReference.cache
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\bin\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.runtimeconfig.json
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\bin\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.runtimeconfig.dev.json
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.genruntimeconfig.cache
+C:\Users\MyLaptop\source\repos\NaturalPersonsHandbook\src\NaturalPersonsHandbook.DAL\obj\Debug\netcoreapp3.1\NaturalPersonsHandbook.DAL.csproj.CoreCompileInputs.cache

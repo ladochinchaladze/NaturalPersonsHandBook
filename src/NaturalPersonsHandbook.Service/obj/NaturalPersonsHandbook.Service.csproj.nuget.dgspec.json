@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Service\\NaturalPersonsHandbook.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Common\\NaturalPersonsHandbook.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Common\\NaturalPersonsHandbook.Common.csproj",
+        "projectName": "NaturalPersonsHandbook.Common",
+        "projectPath": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Common\\NaturalPersonsHandbook.Common.csproj",
+        "packagesPath": "C:\\Users\\MyLaptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MyLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.DAL\\NaturalPersonsHandbook.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.DAL\\NaturalPersonsHandbook.DAL.csproj",
+        "projectName": "NaturalPersonsHandbook.DAL",
+        "projectPath": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.DAL\\NaturalPersonsHandbook.DAL.csproj",
+        "packagesPath": "C:\\Users\\MyLaptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MyLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0-preview.8.20407.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0-preview.8.20407.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Service\\NaturalPersonsHandbook.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Service\\NaturalPersonsHandbook.Service.csproj",
+        "projectName": "NaturalPersonsHandbook.Service",
+        "projectPath": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Service\\NaturalPersonsHandbook.Service.csproj",
+        "packagesPath": "C:\\Users\\MyLaptop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MyLaptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Common\\NaturalPersonsHandbook.Common.csproj": {
+                "projectPath": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.Common\\NaturalPersonsHandbook.Common.csproj"
+              },
+              "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.DAL\\NaturalPersonsHandbook.DAL.csproj": {
+                "projectPath": "C:\\Users\\MyLaptop\\source\\repos\\NaturalPersonsHandbook\\src\\NaturalPersonsHandbook.DAL\\NaturalPersonsHandbook.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[9.3.0-preview1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
